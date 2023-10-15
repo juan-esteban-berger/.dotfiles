@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/juanesh/Pictures/pexels-tyler-lastovich-772803.jpg' 
