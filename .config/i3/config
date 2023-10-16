@@ -184,9 +184,10 @@ bindsym $mod+r mode "resize"
 bar {
         status_command i3status
 }
-# exec --no-startup-id feh --bg-fill Pictures/luca-micheli-ruWkmt3nU58-unsplash.jpg
+exec --no-startup-id feh --bg-fill Pictures/luca-micheli-ruWkmt3nU58-unsplash.jpg
 # exec --no-startup-id feh --bg-fill Pictures/pexels-eberhard-grossgasteiger-691668.jpg
 # exec --no-startup-id feh --bg-fill Pictures/pexels-francesco-ungaro-3652417.jpg
-exec --no-startup-id feh --bg-fill Pictures/pexels-tyler-lastovich-772803.jpg
+# exec --no-startup-id feh --bg-fill Pictures/pexels-tyler-lastovich-772803.jpg
 # exec --no-startup-id feh --bg-fill Pictures/windows_wallpaper.jpg
 exec --no-startup-id picom -b
+bindsym Mod1+space exec --no-startup-id scrot
