@@ -133,6 +133,12 @@ alias sshpersonal='/home/juanesh/GitHub_Personal/Linux_Tools/github_personal.sh'
 alias sshwork='/home/juanesh/GitHub_Personal/Linux_Tools/github_work.sh'
 alias sshdell='/home/juanesh/GitHub_Personal/Linux_Tools/sshdell.sh'
 alias sshmac='/home/juanesh/GitHub_Personal/Linux_Tools/sshmac.sh'
+# Display configuration aliases for xrandr
+alias mirror="xrandr --output eDP-1 --auto --output DP-1 --auto --same-as eDP-1"
+alias extend-right="xrandr --output eDP-1 --auto --output DP-1 --auto --right-of eDP-1"
+alias extend-left="xrandr --output eDP-1 --auto --output DP-1 --auto --left-of eDP-1"
+alias external-only="xrandr --output eDP-1 --off --output DP-1 --auto"
+alias laptop-only="xrandr --output eDP-1 --auto --output DP-1 --off"
 # export PATH="/home/juanesh/anaconda3/bin:$PATH"  # commented out by conda initialize
 
 # >>> conda initialize >>>
@@ -149,4 +155,3 @@ else
 fi
 unset __conda_setup
 # <<< conda initialize <<<
-

@@ -160,15 +160,13 @@ return {
     end
   },
 
-  -- {
-  --   'lukas-reineke/indent-blankline.nvim',
-  --   config = function()
-  --     require("ibl").setup {
-  --       show_current_context = true,
-  --       show_current_context_start = false,
-  --     }
-  --   end
-  -- },
+  {
+    'lukas-reineke/indent-blankline.nvim',
+    config = function()
+      require("ibl").setup {
+      }
+    end
+  },
 
   {
     'lukas-reineke/headlines.nvim',
