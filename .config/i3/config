@@ -184,10 +184,18 @@ bindsym $mod+r mode "resize"
 bar {
         status_command i3status
 }
-exec --no-startup-id feh --bg-fill Pictures/luca-micheli-ruWkmt3nU58-unsplash.jpg
+# exec --no-startup-id feh --bg-fill Pictures/luca-micheli-ruWkmt3nU58-unsplash.jpg
 # exec --no-startup-id feh --bg-fill Pictures/pexels-eberhard-grossgasteiger-691668.jpg
 # exec --no-startup-id feh --bg-fill Pictures/pexels-francesco-ungaro-3652417.jpg
 # exec --no-startup-id feh --bg-fill Pictures/pexels-tyler-lastovich-772803.jpg
 # exec --no-startup-id feh --bg-fill Pictures/windows_wallpaper.jpg
+exec --no-startup-id feh --bg-fill /home/juanesh/Pictures/black_screen.jpeg
 exec --no-startup-id picom -b
 bindsym Mod1+space exec --no-startup-id scrot
+exec_always --no-startup-id "setxkbmap -layout us,latam -option 'grp:alt_shift_toggle'"
+#Hide window title bar
+default_border pixel 1
+default_floating_border pixel 1
+for_window [class="^.*"] border pixel 1
+bindsym $mod+Mod1+period exec rofi -show run
+bindsym $mod+Shift+b bar mode toggle
