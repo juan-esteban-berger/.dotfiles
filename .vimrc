@@ -1,7 +1,9 @@
 syntax on
 set number
+set ts=2
+set shiftwidth=2
 
 vnoremap <C-c> "+y
-nnoremap <C-v> "+p
 nnoremap <C-c> "+yy
-nnoremap <C-v> "+pu
+vnoremap < <gv
+vnoremap > >gv
