@@ -119,7 +119,7 @@ fi
 alias chrome="google-chrome-stable --high-dpi-support=1 --force-device-scale-factor=1.4"
 alias brightup='sudo brightnessctl set +10%'
 alias brightdown='sudo brightnessctl set 10%-'
-alias vim='nvim'
+alias vim='vi'
 alias py='python3'
 # alias ipython='ipython3'
 export PATH="$PATH:$HOME/tree-sitter/cli"
