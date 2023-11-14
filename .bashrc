@@ -121,6 +121,7 @@ alias brightup='sudo brightnessctl set +10%'
 alias brightdown='sudo brightnessctl set 10%-'
 alias vim='vi'
 alias py='python3'
+alias ytmp3='python /home/juanesh/GitHub_Personal/Linux_Tools/ytmp3.py'
 # alias ipython='ipython3'
 export PATH="$PATH:$HOME/tree-sitter/cli"
 export PATH=$PATH:~/.local/bin
@@ -132,7 +133,7 @@ export CLASSPATH=$CLASSPATH:/opt/jtds-1.3.1/jtds-1.3.1.jar
 alias sshpersonal='/home/juanesh/GitHub_Personal/Linux_Tools/github_personal.sh'
 alias sshwork='/home/juanesh/GitHub_Personal/Linux_Tools/github_work.sh'
 alias sshdell='/home/juanesh/GitHub_Personal/Linux_Tools/sshdell.sh'
-alias fit_json='py /home/juanesh/GitHub_Personal/Linux_Tools/fit_json.py'
+alias fit_json='python /home/juanesh/GitHub_Personal/Linux_Tools/fit_json.py'
 alias sshmac='/home/juanesh/GitHub_Personal/Linux_Tools/sshmac.sh'
 # export PATH="/home/juanesh/anaconda3/bin:$PATH"  # commented out by conda initialize
 
