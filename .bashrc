@@ -137,19 +137,3 @@ alias sshwork='/home/juanesh/GitHub_Personal/Linux_Tools/github_work.sh'
 alias sshdell='/home/juanesh/GitHub_Personal/Linux_Tools/sshdell.sh'
 alias fit_json='python3 /home/juanesh/GitHub_Personal/Linux_Tools/fit_json.py'
 alias sshmac='/home/juanesh/GitHub_Personal/Linux_Tools/sshmac.sh'
-# export PATH="/home/juanesh/anaconda3/bin:$PATH"  # commented out by conda initialize
-
-## >>> conda initialize >>>
-## !! Contents within this block are managed by 'conda init' !!
-#__conda_setup="$('/home/juanesh/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
-#if [ $? -eq 0 ]; then
-#    eval "$__conda_setup"
-#else
-#    if [ -f "/home/juanesh/anaconda3/etc/profile.d/conda.sh" ]; then
-#        . "/home/juanesh/anaconda3/etc/profile.d/conda.sh"
-#    else
-#        export PATH="/home/juanesh/anaconda3/bin:$PATH"
-#    fi
-#fi
-#unset __conda_setup
-## <<< conda initialize <<<
