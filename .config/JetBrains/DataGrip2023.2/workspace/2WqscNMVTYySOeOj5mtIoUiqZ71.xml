@@ -1,0 +1,893 @@
+<project version="4">
+  <component name="BigDataToolWindowController">
+    <hdfsProjectPane id="RfsPane" />
+  </component>
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Test" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="disresa: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="disresa: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="Family of 31 table (host: schema disresa)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="disresa: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="Family of 31 table (host: schema disresa)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+        <item name="skechers: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="disresa: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="Family of 31 table (host: schema disresa)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+        <item name="skechers: table" type="69fad909:PgImplModel$LocalTable" />
+        <item name="Nest(skechers: table).table" type="baced545:DvNestFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@personal: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@personal: DSN" type="27e358d6:DataSourceNode" />
+        <item name="finance: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@personal: DSN" type="27e358d6:DataSourceNode" />
+        <item name="fitness: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_6.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="38" selection-end-line="16" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Database Element">
+      <summary usageCount="72" lastUsed="1700661296202" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="4" lastUsed="1700613276304" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="61" lastUsed="1700759338432" />
+    </fileType>
+    <fileType name="UML">
+      <summary usageCount="18" lastUsed="1700569242792" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_1.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_1.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/30074c3b-5f7f-4f2f-83bf-8ad4eb5443bb/console.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/7ee9f3ad-5919-437f-a5cb-165a583d464e/console.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/7ee9f3ad-5919-437f-a5cb-165a583d464e/console_1.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_2.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_3.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/7ee9f3ad-5919-437f-a5cb-165a583d464e/console_2.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_1.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_3.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_4.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_2.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_5.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_4.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/12f84b77-8f94-49ad-ad17-2f90486b2fb6/console.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_3.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_6.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_5.sql" />
+      <option value="$PROJECT_DIR$/cleanups_2023_11_21.sql" />
+      <option value="$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_6.sql" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="SQL">
+      <summary usageCount="61" lastUsage="1700759338442" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="4" lastUsage="1700613276304" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Test" type="e2ad676d:AttachableProjectViewPane$1$1" />
+              <item name="dir{file:///home/juanesh/DataGripProjects/Test}" type="377199ff:AttachableProjectViewPane$1$1$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.15314907" />
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Welcome to GitHub Copilot" order="0" weight="0.32992893" />
+      <window_info active="true" content_ui="combo" id="Database" order="1" visible="true" weight="0.6940994" />
+      <window_info anchor="bottom" id="zeppelin-shell-toolwindow" />
+      <window_info anchor="bottom" id="Services" visible="true" weight="0.4300747" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33027834" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33027834" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" weight="0.12300178" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="1" weight="0.19631766" />
+      <window_info anchor="right" id="BigDataToolWindow" order="2" weight="0.16481811" />
+      <window_info anchor="right" id="Structure" order="3" side_tool="true" weight="0.19631766" />
+      <unified_weights bottom="0.4300747" left="0.6940994" right="0.19631766" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info id="Welcome to GitHub Copilot" order="0" weight="0.32992893" />
+      <window_info active="true" content_ui="combo" id="Database" order="1" visible="true" weight="0.2548802" />
+      <window_info anchor="bottom" id="zeppelin-shell-toolwindow" />
+      <window_info anchor="bottom" id="Services" weight="0.33027834" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33027834" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33027834" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" weight="0.12300178" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="1" weight="0.19631766" />
+      <window_info anchor="right" id="BigDataToolWindow" order="2" weight="0.16481811" />
+      <window_info anchor="right" id="Structure" order="3" side_tool="true" weight="0.19631766" />
+      <unified_weights bottom="0.33027834" left="0.2548802" right="0.19631766" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Database</value>
+      <value>Services</value>
+      <value>Structure</value>
+      <value>Find</value>
+      <value>Run</value>
+      <value>github.copilotToolWindow</value>
+      <value>Welcome to GitHub Copilot</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="723" y="368" width="802" height="711" key="#Plugins" timestamp="1698262998386">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="723" y="368" width="802" height="711" key="#Plugins/0.0.2256.1504@0.0.2256.1504" timestamp="1698262998386" />
+    <state x="161" y="529" width="1926" height="389" key="#SQL_Dialects" timestamp="1700594070157">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="161" y="529" width="1926" height="389" key="#SQL_Dialects/0.0.2256.1504@0.0.2256.1504" timestamp="1700594070157" />
+    <state x="723" y="399" width="1001" height="726" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1700151273554">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="723" y="388" width="1199" height="994" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=125" timestamp="1700139312829">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="723" y="388" width="1199" height="994" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700139312829" />
+    <state x="723" y="399" width="1001" height="726" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2256.1504@0.0.2256.1504" timestamp="1700151273554" />
+    <state x="850" y="422" width="1153" height="603" key="FileChooserDialogImpl" timestamp="1700665076343">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="850" y="422" width="910" height="603" key="FileChooserDialogImpl.ideScale=125" timestamp="1700146113918">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="850" y="422" width="910" height="603" key="FileChooserDialogImpl.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700146113918" />
+    <state x="850" y="422" width="1153" height="603" key="FileChooserDialogImpl/0.0.2256.1504@0.0.2256.1504" timestamp="1700665076343" />
+    <state width="684" height="622" key="GridCell.Tab.-1.bottom.ideScale=125" timestamp="1699470517686">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="684" height="622" key="GridCell.Tab.-1.bottom.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1699470517686" />
+    <state width="684" height="622" key="GridCell.Tab.-1.center.ideScale=125" timestamp="1699470517686">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="684" height="622" key="GridCell.Tab.-1.center.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1699470517686" />
+    <state width="684" height="622" key="GridCell.Tab.-1.left.ideScale=125" timestamp="1699470517686">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="684" height="622" key="GridCell.Tab.-1.left.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1699470517686" />
+    <state width="684" height="622" key="GridCell.Tab.-1.right.ideScale=125" timestamp="1699470517686">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="684" height="622" key="GridCell.Tab.-1.right.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1699470517686" />
+    <state width="1872" height="580" key="GridCell.Tab.0.bottom" timestamp="1700664939861">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.0.bottom.ideScale=125" timestamp="1700146155597">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.0.bottom.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700146155597" />
+    <state width="1872" height="580" key="GridCell.Tab.0.bottom/0.0.2256.1504@0.0.2256.1504" timestamp="1700664939861" />
+    <state width="1872" height="580" key="GridCell.Tab.0.center" timestamp="1700664939861">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.0.center.ideScale=125" timestamp="1700146155597">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.0.center.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700146155597" />
+    <state width="1872" height="580" key="GridCell.Tab.0.center/0.0.2256.1504@0.0.2256.1504" timestamp="1700664939861" />
+    <state width="1872" height="580" key="GridCell.Tab.0.left" timestamp="1700664939861">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.0.left.ideScale=125" timestamp="1700146155597">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.0.left.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700146155597" />
+    <state width="1872" height="580" key="GridCell.Tab.0.left/0.0.2256.1504@0.0.2256.1504" timestamp="1700664939861" />
+    <state width="1872" height="580" key="GridCell.Tab.0.right" timestamp="1700664939861">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.0.right.ideScale=125" timestamp="1700146155597">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.0.right.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700146155597" />
+    <state width="1872" height="580" key="GridCell.Tab.0.right/0.0.2256.1504@0.0.2256.1504" timestamp="1700664939861" />
+    <state width="1872" height="580" key="GridCell.Tab.1.bottom" timestamp="1700612324590">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.1.bottom.ideScale=125" timestamp="1700146081242">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.1.bottom.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700146081242" />
+    <state width="1872" height="580" key="GridCell.Tab.1.bottom/0.0.2256.1504@0.0.2256.1504" timestamp="1700612324590" />
+    <state width="1872" height="580" key="GridCell.Tab.1.center" timestamp="1700612324590">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.1.center.ideScale=125" timestamp="1700146081242">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.1.center.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700146081242" />
+    <state width="1872" height="580" key="GridCell.Tab.1.center/0.0.2256.1504@0.0.2256.1504" timestamp="1700612324590" />
+    <state width="1872" height="580" key="GridCell.Tab.1.left" timestamp="1700612324590">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.1.left.ideScale=125" timestamp="1700146081242">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.1.left.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700146081242" />
+    <state width="1872" height="580" key="GridCell.Tab.1.left/0.0.2256.1504@0.0.2256.1504" timestamp="1700612324590" />
+    <state width="1872" height="580" key="GridCell.Tab.1.right" timestamp="1700612324590">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.1.right.ideScale=125" timestamp="1700146081242">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.1.right.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700146081242" />
+    <state width="1872" height="580" key="GridCell.Tab.1.right/0.0.2256.1504@0.0.2256.1504" timestamp="1700612324590" />
+    <state width="1872" height="580" key="GridCell.Tab.2.bottom" timestamp="1700594258174">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.2.bottom.ideScale=125" timestamp="1700083700061">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.2.bottom.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700083700061" />
+    <state width="1872" height="580" key="GridCell.Tab.2.bottom/0.0.2256.1504@0.0.2256.1504" timestamp="1700594258174" />
+    <state width="1872" height="580" key="GridCell.Tab.2.center" timestamp="1700594258174">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.2.center.ideScale=125" timestamp="1700083700061">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.2.center.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700083700061" />
+    <state width="1872" height="580" key="GridCell.Tab.2.center/0.0.2256.1504@0.0.2256.1504" timestamp="1700594258174" />
+    <state width="1872" height="580" key="GridCell.Tab.2.left" timestamp="1700594258174">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.2.left.ideScale=125" timestamp="1700083700061">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.2.left.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700083700061" />
+    <state width="1872" height="580" key="GridCell.Tab.2.left/0.0.2256.1504@0.0.2256.1504" timestamp="1700594258174" />
+    <state width="1872" height="580" key="GridCell.Tab.2.right" timestamp="1700594258174">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.2.right.ideScale=125" timestamp="1700083700061">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1861" height="570" key="GridCell.Tab.2.right.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700083700061" />
+    <state width="1872" height="580" key="GridCell.Tab.2.right/0.0.2256.1504@0.0.2256.1504" timestamp="1700594258174" />
+    <state width="1872" height="580" key="GridCell.Tab.4.bottom" timestamp="1700238353441">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="824" height="622" key="GridCell.Tab.4.bottom.ideScale=125" timestamp="1699470478003">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="824" height="622" key="GridCell.Tab.4.bottom.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1699470478003" />
+    <state width="1872" height="580" key="GridCell.Tab.4.bottom/0.0.2256.1504@0.0.2256.1504" timestamp="1700238353441" />
+    <state width="1872" height="580" key="GridCell.Tab.4.center" timestamp="1700238353441">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="824" height="622" key="GridCell.Tab.4.center.ideScale=125" timestamp="1699470478003">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="824" height="622" key="GridCell.Tab.4.center.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1699470478003" />
+    <state width="1872" height="580" key="GridCell.Tab.4.center/0.0.2256.1504@0.0.2256.1504" timestamp="1700238353441" />
+    <state width="1872" height="580" key="GridCell.Tab.4.left" timestamp="1700238353440">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="824" height="622" key="GridCell.Tab.4.left.ideScale=125" timestamp="1699470478003">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="824" height="622" key="GridCell.Tab.4.left.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1699470478003" />
+    <state width="1872" height="580" key="GridCell.Tab.4.left/0.0.2256.1504@0.0.2256.1504" timestamp="1700238353440" />
+    <state width="1872" height="580" key="GridCell.Tab.4.right" timestamp="1700238353441">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="824" height="622" key="GridCell.Tab.4.right.ideScale=125" timestamp="1699470478003">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="824" height="622" key="GridCell.Tab.4.right.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1699470478003" />
+    <state width="1872" height="580" key="GridCell.Tab.4.right/0.0.2256.1504@0.0.2256.1504" timestamp="1700238353441" />
+    <state width="1872" height="580" key="GridCell.Tab.6.bottom" timestamp="1700594239647">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1872" height="580" key="GridCell.Tab.6.bottom/0.0.2256.1504@0.0.2256.1504" timestamp="1700594239647" />
+    <state width="1872" height="580" key="GridCell.Tab.6.center" timestamp="1700594239647">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1872" height="580" key="GridCell.Tab.6.center/0.0.2256.1504@0.0.2256.1504" timestamp="1700594239647" />
+    <state width="1872" height="580" key="GridCell.Tab.6.left" timestamp="1700594239647">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1872" height="580" key="GridCell.Tab.6.left/0.0.2256.1504@0.0.2256.1504" timestamp="1700594239647" />
+    <state width="1872" height="580" key="GridCell.Tab.6.right" timestamp="1700594239647">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1872" height="580" key="GridCell.Tab.6.right/0.0.2256.1504@0.0.2256.1504" timestamp="1700594239647" />
+    <state width="1872" height="580" key="GridCell.Tab.7.bottom" timestamp="1700520397461">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1872" height="580" key="GridCell.Tab.7.bottom/0.0.2256.1504@0.0.2256.1504" timestamp="1700520397461" />
+    <state width="1872" height="580" key="GridCell.Tab.7.center" timestamp="1700520397461">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1872" height="580" key="GridCell.Tab.7.center/0.0.2256.1504@0.0.2256.1504" timestamp="1700520397461" />
+    <state width="1872" height="580" key="GridCell.Tab.7.left" timestamp="1700520397461">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1872" height="580" key="GridCell.Tab.7.left/0.0.2256.1504@0.0.2256.1504" timestamp="1700520397461" />
+    <state width="1872" height="580" key="GridCell.Tab.7.right" timestamp="1700520397461">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1872" height="580" key="GridCell.Tab.7.right/0.0.2256.1504@0.0.2256.1504" timestamp="1700520397461" />
+    <state width="418" height="612" key="HiddenNamespacesPopup" timestamp="1700568883994">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="527" height="816" key="HiddenNamespacesPopup.ideScale=125" timestamp="1700145596846">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="527" height="816" key="HiddenNamespacesPopup.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700145596846" />
+    <state width="418" height="612" key="HiddenNamespacesPopup/0.0.2256.1504@0.0.2256.1504" timestamp="1700568883994" />
+    <state x="303" y="111" key="SettingsEditor.ideScale=125" timestamp="1699912560856">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="303" y="111" key="SettingsEditor.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1699912560856" />
+    <state x="382" y="184" key="SettingsEditor.ideScale=150" timestamp="1698263527952">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="382" y="184" key="SettingsEditor.ideScale=150/0.0.2256.1504@0.0.2256.1504" timestamp="1698263527952" />
+    <state width="714" height="594" key="SwitcherDM" timestamp="1700594012703">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="714" height="594" key="SwitcherDM/0.0.2256.1504@0.0.2256.1504" timestamp="1700594012703" />
+    <state x="872" y="330" width="504" height="786" key="com.intellij.database.actions.DbDeleteProvider$2" timestamp="1700762201788">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="819" y="466" width="609" height="514" key="com.intellij.database.actions.DbDeleteProvider$2.ideScale=125" timestamp="1700083792559">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="819" y="466" width="609" height="514" key="com.intellij.database.actions.DbDeleteProvider$2.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700083792559" />
+    <state x="872" y="330" width="504" height="786" key="com.intellij.database.actions.DbDeleteProvider$2/0.0.2256.1504@0.0.2256.1504" timestamp="1700762201788" />
+    <state x="926" y="456" width="396" height="534" key="com.intellij.database.actions.ddl.DbModifyObjectDialog" timestamp="1700661321452">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="491" y="171" width="1265" height="1104" key="com.intellij.database.actions.ddl.DbModifyObjectDialog.ideScale=125" timestamp="1699972170174">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="491" y="171" width="1265" height="1104" key="com.intellij.database.actions.ddl.DbModifyObjectDialog.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1699972170174" />
+    <state x="926" y="456" width="396" height="534" key="com.intellij.database.actions.ddl.DbModifyObjectDialog/0.0.2256.1504@0.0.2256.1504" timestamp="1700661321452" />
+    <state x="504" y="222" width="1240" height="1003" key="com.intellij.database.dbimport.ImportDialog" timestamp="1700613244055">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="496" y="212" width="1256" height="1023" key="com.intellij.database.dbimport.ImportDialog.ideScale=125" timestamp="1700146115966">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="496" y="212" width="1256" height="1023" key="com.intellij.database.dbimport.ImportDialog.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700146115966" />
+    <state x="504" y="222" width="1240" height="1003" key="com.intellij.database.dbimport.ImportDialog/0.0.2256.1504@0.0.2256.1504" timestamp="1700613244055" />
+    <state x="783" y="505" width="681" height="393" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1700661262980">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="783" y="505" width="681" height="393" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.2256.1504@0.0.2256.1504" timestamp="1700661262980" />
+    <state x="826" y="342" width="410" height="582" key="com.intellij.database.run.actions.ShowCsvFormatsAction$ForExport" timestamp="1699470761732">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="826" y="342" width="410" height="582" key="com.intellij.database.run.actions.ShowCsvFormatsAction$ForExport/0.0.2256.1504@0.0.2256.1504" timestamp="1699470761732" />
+    <state x="861" y="445" width="528" height="584" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1700664933851">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="861" y="445" width="637" height="584" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=125" timestamp="1700142746176">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="861" y="445" width="637" height="584" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700142746176" />
+    <state x="861" y="445" width="528" height="584" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2256.1504@0.0.2256.1504" timestamp="1700664933851" />
+    <state x="707" y="303" width="900" height="1066" key="search.everywhere.popup" timestamp="1700607556838">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="621" y="0" width="1060" height="1509" key="search.everywhere.popup.ideScale=125" timestamp="1700082610520">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="621" y="0" width="1060" height="1509" key="search.everywhere.popup.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1700082610520" />
+    <state x="707" y="303" width="900" height="1066" key="search.everywhere.popup/0.0.2256.1504@0.0.2256.1504" timestamp="1700607556838" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/database/postgres/schema/disresa/table/skechers_20231114">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700002337421" presentationMode="TABLE" projectRestartId="4e14a915-e401-4975-9f30-34631332b702" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_4.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_3.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/strong_2023_11_16_07_07_21.txt" />
+    <entry file="file://$USER_HOME$/strong_2023_11_16_07_05_37.txt" />
+    <entry file="file://$USER_HOME$/myfitnesspal_2023_11_16_08_46_03.txt" />
+    <entry file="das://5fd8b389-c8cb-4fd6-a5f4-674662965435/schema/fitness/table/strong">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700147337041" presentationMode="TABLE" projectRestartId="35f330a3-a86c-49ea-ae10-0814638af7b7" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5fd8b389-c8cb-4fd6-a5f4-674662965435/schema/fitness/table/myfitnesspal">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700148053063" presentationMode="TABLE" projectRestartId="35f330a3-a86c-49ea-ae10-0814638af7b7" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://12f84b77-8f94-49ad-ad17-2f90486b2fb6/schema/fitness/table/garmin_connect" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/database/postgres/schema/disresa/table/skechers">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700496037891" presentationMode="TABLE" projectRestartId="ed75749d-7cb6-45bb-b727-89db26607cb0" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb.TABLE:postgres.disresa.u_marca">
+      <provider selected="true" editor-type-id="UmlEditorProvider" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_4.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/database/postgres/schema/disresa/table/newera">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700521017950" presentationMode="TABLE" projectRestartId="ed75749d-7cb6-45bb-b727-89db26607cb0" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/database/postgres/schema/disresa/table/u_marca">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700503358907" presentationMode="TABLE" projectRestartId="ed75749d-7cb6-45bb-b727-89db26607cb0" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb.SCHEMA:postgres.disresa">
+      <provider selected="true" editor-type-id="UmlEditorProvider" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_5.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/5fd8b389-c8cb-4fd6-a5f4-674662965435.SCHEMA:fitness">
+      <provider selected="true" editor-type-id="UmlEditorProvider" />
+    </entry>
+    <entry file="das://5fd8b389-c8cb-4fd6-a5f4-674662965435/schema/fitness/table/dim_weight">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700569438207" presentationMode="TABLE" projectRestartId="f5ae17ac-c064-4435-bc11-ac7f48eefcd1" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/12f84b77-8f94-49ad-ad17-2f90486b2fb6/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5fd8b389-c8cb-4fd6-a5f4-674662965435/schema/fitness/table/dim_strength">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700578089279" presentationMode="TABLE" projectRestartId="721b8edf-08b9-4794-894a-907768cf8f7c" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5fd8b389-c8cb-4fd6-a5f4-674662965435/schema/fitness/table/fact_workout">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700578088595" presentationMode="TABLE" projectRestartId="721b8edf-08b9-4794-894a-907768cf8f7c" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_3.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/cleanups_2023_11_21.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_5.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_6.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://58f827a6-aee4-49c7-b040-61a9976c8346/database/SBO_00_DISRESA/schema/dbo/table/OITM">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700602078770" presentationMode="TABLE" projectRestartId="512c2306-cec6-4e67-b0ce-87d8685644ec" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleanups_2023_11_21.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="62" column="11" selection-start-line="62" selection-start-column="11" selection-end-line="62" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/database/postgres/schema/disresa/table/skechers_20231019_091608">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700612330941" presentationMode="TABLE" projectRestartId="512c2306-cec6-4e67-b0ce-87d8685644ec" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/database/postgres/schema/disresa/table/u_marca_20231016_195136">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700612343413" presentationMode="TABLE" projectRestartId="512c2306-cec6-4e67-b0ce-87d8685644ec" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/database/postgres/schema/disresa/table/u_marca_20231019_091608">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700612345412" presentationMode="TABLE" projectRestartId="512c2306-cec6-4e67-b0ce-87d8685644ec" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/database/postgres/schema/disresa/table/u_marca_20231115_143019">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700612355523" presentationMode="TABLE" projectRestartId="512c2306-cec6-4e67-b0ce-87d8685644ec" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/database/postgres/schema/disresa/table/skechers_20231115_143624">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700612357255" presentationMode="TABLE" projectRestartId="512c2306-cec6-4e67-b0ce-87d8685644ec" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/database/postgres/schema/disresa/table/u_marca_20230919_171320">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700612340564" presentationMode="TABLE" projectRestartId="512c2306-cec6-4e67-b0ce-87d8685644ec" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/database/postgres/schema/disresa/table/skechers_20231016_195136">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700612328797" presentationMode="TABLE" projectRestartId="512c2306-cec6-4e67-b0ce-87d8685644ec" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/database/postgres/schema/disresa/table/skechers_20231023_100522">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700612332393" presentationMode="TABLE" projectRestartId="512c2306-cec6-4e67-b0ce-87d8685644ec" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/database/postgres/schema/disresa/table/skechers_20231102_102445">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700612696351" presentationMode="TABLE" projectRestartId="512c2306-cec6-4e67-b0ce-87d8685644ec" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/database/postgres/schema/disresa/table/skechers_20230919_171320">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700612324452" presentationMode="TABLE" projectRestartId="512c2306-cec6-4e67-b0ce-87d8685644ec" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5fd8b389-c8cb-4fd6-a5f4-674662965435/schema/fitness/table/dim_nutrition">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1700661296136" presentationMode="TABLE" projectRestartId="512c2306-cec6-4e67-b0ce-87d8685644ec" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/skechers_20230919_171320_2023_11_21_18_34_02.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_6.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

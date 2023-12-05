@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$">
+          <value>
+            <RecentProjectMetaInfo frameTitle="juanesh – console [postgres@localhost]" opened="true" projectWorkspaceId="2YmHCzVcQSUkrsIVTLWS0gF62tP">
+              <option name="activationTimestamp" value="1701467461133" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="DB-232.10203.8" />
+              <option name="buildTimestamp" value="1698154276502" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="0" y="-27" width="2256" height="1502" />
+              <option name="productionCode" value="DB" />
+              <option name="projectOpenTimestamp" value="1701123711802" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$" />
+  </component>
+</application>

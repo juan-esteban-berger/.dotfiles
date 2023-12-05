@@ -1,0 +1,109 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="JetBrains Mono" />
+    <option name="fontSize" value="16.0" />
+    <option name="ideScale" value="1.5" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+    <option name="overrideLafFontsWasMigrated" value="true" />
+    <option name="experimentalSingleStripe" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "DG.SingleStripe.Customization2": "true",
+    "DbRenameDialog.previewExpanded": "true",
+    "InstalledPluginsSearchHistory": "/tag:aj\n/tag:a\n/tag:\n/tag:t\n/tag:th",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "DB-232.10203.8",
+    "MYSQL_PROPERTIES_VARIANTS_-753420028": "--databases --all-databases -A -Y --all-tablespaces -y --no-tablespaces --add-drop-database --add-drop-table --skip-add-drop-table --add-drop-trigger --add-locks --skip-add-locks --allow-keywords --apply-replica-statements --apply-slave-statements --bind-address= --character-sets-dir= --column-statistics --skip-column-statistics -i --comments --skip-comments --compatible= --compact --skip-disable-keys --skip-set-charset -c --complete-insert -C --compress -a --create-options --skip-create-options -B -# --debug --debug-check --debug-info --default-character-set= --delete-source-logs --source-data --delete-master-logs -K --disable-keys --dump-replica --lock-all-tables --single-transaction --lock-tables --dump-slave -E --events -e --extended-insert --skip-extended-insert --fields-terminated-by= --fields-enclosed-by= --fields-optionally-enclosed-by= --fields-escaped-by= -F --flush-logs --databases= --flush-privileges -f --force --help --hex-blob -h --host= --ignore-error= --ignore-table= --include-source-host-port --include-master-host-port --insert-ignore --lines-terminated-by= -x -l --skip-lock-tables --log-error= --mysqld-long-query-time= --master-data --max-allowed-packet= --net-buffer-length= --no-autocommit -n --no-create-db -t --no-create-info -d --no-data -N --no-set-names --opt --quick --set-charset --skip-opt --order-by-primary -p --password --password1 --password2 --password3 -P --port= --protocol= -q --skip-quick -Q --quote-names --skip-quote-names --replace -r --result-file= -R --routines --set-gtid-purged --dump-date --skip-dump-date -S --socket= --server-public-key-path= --get-server-public-key --ssl-mode= --ssl-ca= --ssl-capath= --ssl-cert= --ssl-cipher= --ssl-key= --ssl-crl= --ssl-crlpath= --tls-version= --ssl-fips-mode= --tls-ciphersuites= --ssl-session-data= --ssl-session-data-continue-on-failed-reuse -T --tab= --tables --triggers --skip-triggers --tz-utc --skip-tz-utc -u --user= -v --verbose -V --version -w --where= -X --xml --plugin-dir= --default-auth= --enable-cleartext-plugin -M --network-timeout --skip-network-timeout --show-create-table-skip-secondary-engine --compression-algorithms= --zstd-compression-level= --skip-generated-invisible-primary-key",
+    "MarketplacePluginsSearchHistory": "/tag:theme dracu\n/tag:theme drac\n/tag:theme\n/tag:theme holid\n/tag:theme christ",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "SettingsSearchHistory": "theme\ncopy\nfont",
+    "SqlStructureView.filterD.file.structure.state": "true",
+    "appcds.runOnSecondStart": "DB-232.10203.8-ef9bd3626ddc932d2b4f8fbf522e4d1adb8f7caff1c4021642a8c14c3dfca6e0",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bdt.binary.files.lastUpdateCheck": "1701446359780",
+    "bdt.core.lastUpdateCheck": "1701446359780",
+    "bdt.full.lastUpdateCheck": "1701446359804",
+    "bdt.metastore.core.lastUpdateCheck": "1701446359780",
+    "bundled.plugins.list.saved.version": "DB-232.10203.8",
+    "com.intellij.database.actions.DbDeleteProvider$2.proportion": "0.5",
+    "com.intellij.database.actions.ddl.DbModifyObjectDialog.proportion": "0.5",
+    "database.data.extractors.output.dir": "/home/juanesh/Inbox/clean_newera",
+    "evlsprt3.232": "4",
+    "experimental.ui.used.version": "232.10203.8",
+    "file.gist.reindex.count": "775",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.copilot.inlayGotIt": "1",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "gotit.previous.run": "DB-232.10203.8",
+    "ide.memory.adjusted": "true",
+    "ide.updates.previous.build.number": "DB-232.10203.8",
+    "ideavim.statistics.timestamp": "1701446359958",
+    "import_error_directory": "/home/juanesh",
+    "import_modality_state": "false",
+    "import_write_errors": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/juanesh",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_True Black",
+    "registry.to.advanced.settings.migration.build": "DB-232.10203.8"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/juanesh/Inbox/clean_newera",
+      "/home/juanesh/GitHub_Personal/fit_app/strength_template.csv",
+      "/home/juanesh/Inbox/u_sellitem_fix",
+      "/home/juanesh/myfitnesspal.csv",
+      "/home/juanesh",
+      "/home/juanesh/GitHub_Work/Limpieza_Data_with_Data/D01_Snapshots/skechers/new/09_skechers.csv",
+      "/home/juanesh/GitHub_Work/Limpieza_Data_with_Data/D01_Snapshots/skechers/new/productos_20230919_171320.csv",
+      "/home/juanesh/GitHub_Work/Dashboard_Metadata/SQL_Cleaning",
+      "/home/juanesh/Data/Strong/20231116_0604.csv",
+      "/home/juanesh/Data/Strong/20231115_1901.csv",
+      "/home/juanesh/Data/Strong/20231114_2004.csv",
+      "/home/juanesh/Data/My_Fitness_Pal/20231115.csv",
+      "/home/juanesh/Data/My_Fitness_Pal/20231114.csv",
+      "/home/juanesh/Data/My_Fitness_Pal/20231113.csv",
+      "/home/juanesh/Data/Strong/20231114_0559.csv",
+      "/home/juanesh/Data/Strong/20231113_1926.csv",
+      "/home/juanesh/GitHub_Work/Limpieza_Data_with_Data/scripts/20231108"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "Rename": 1700759354683,
+    "CtrlW": 1701123717079,
+    "SpeedSearch": 1699718752573,
+    "SearchEverywhere": 1699971788156,
+    "GoToDeclaration": 1701446362262,
+    "CommentCode": 1701184107769,
+    "FindReplaceToggle": 1701293077167,
+    "SurroundWith": 1701343997344,
+    "ShowUsages": 1700496044435,
+    "FindInPath": 1700565426192
+  },
+  "proposedTips": {
+    "SpeedSearch": 1699397145511,
+    "CtrlW": 1701123716967,
+    "Rename": 1700759348330,
+    "SearchEverywhere": 1699971788013,
+    "GoToDeclaration": 1701446362120,
+    "CommentCode": 1701184107690,
+    "FindReplaceToggle": 1701293077046,
+    "SurroundWith": 1701343997184,
+    "ShowUsages": 1700496044284,
+    "FindInPath": 1700565426083
+  },
+  "tipsOrderSeed": 1697472530900
+}]]></component>
+</application>

@@ -1,0 +1,15 @@
+2023/12/02-08:43:49.596 2e61 Reusing MANIFEST /home/juanesh/.config/obsidian/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/02-08:43:49.596 2e61 Recovering log #7
+2023/12/02-08:43:49.598 2e61 Reusing old log /home/juanesh/.config/obsidian/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log 
+2023/12/02-10:32:03.509 2e63 Level-0 table #12: started
+2023/12/02-10:32:03.514 2e63 Level-0 table #12: 198858 bytes OK
+2023/12/02-10:32:03.516 2e63 Delete type=0 #7
+2023/12/02-10:32:03.517 2e63 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/12/02-10:32:03.517 2e63 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xe0\x08\xa9\xa9\xc2xB\x00\x03\x00\x00\x00\x00\x00\xc0U@' @ 3733 : 1
+2023/12/02-10:32:03.517 2e63 Compacting 1@1 + 1@2 files
+2023/12/02-10:32:03.520 2e63 Generated table #13@1: 62 keys, 1460 bytes
+2023/12/02-10:32:03.520 2e63 Compacted 1@1 + 1@2 files => 1460 bytes
+2023/12/02-10:32:03.521 2e63 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/02-10:32:03.521 2e63 Delete type=2 #9
+2023/12/02-10:32:03.521 2e63 Delete type=2 #12
+2023/12/02-10:32:03.522 2e63 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xe0\x08\xa9\xa9\xc2xB\x00\x03\x00\x00\x00\x00\x00\xc0U@' @ 3733 : 1 .. (end); will stop at (end)

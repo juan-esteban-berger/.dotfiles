@@ -1,7 +1,7 @@
 syntax on
 set number
-set ts=2
-set shiftwidth=2
+set ts=4
+set shiftwidth=4
 
 vnoremap <C-c> "+y
 nnoremap <C-c> "+yy

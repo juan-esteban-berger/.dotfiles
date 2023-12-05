@@ -1,0 +1,451 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="juanesh" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console_1.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/104471e9-db6b-4344-8f7c-0baa3ca7169e/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="20" column="36" selection-start-line="20" selection-end-line="20" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="das://104471e9-db6b-4344-8f7c-0baa3ca7169e/database/postgres/schema/disresa/table/newera_20231201_100238">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state lastOpenedTimestamp="1701451639551" presentationMode="TABLE" projectRestartId="544c5fc6-0fab-4e1d-ae50-9534334c610b" pageSize="500">
+              <filtering>
+                <filter text="" />
+              </filtering>
+              <sorting>
+                <sort text="u_estilo DESC" />
+                <sort text="u_estilo" />
+                <sort text="" />
+              </sorting>
+              <column-attributes>
+                <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+              </column-attributes>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Database Element">
+      <summary usageCount="9" lastUsed="1701451639698" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="2" lastUsed="1701193328484" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="18" lastUsed="1701451604244" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <option value="$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console.sql" />
+      <option value="$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/0e05dec8-dc04-450d-a030-cd33456a4e12/console_1.sql" />
+      <option value="$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/e99f4505-99e3-42de-b95c-133195ee1cf2/console.sql" />
+      <option value="$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console_1.sql" />
+      <option value="$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/104471e9-db6b-4344-8f7c-0baa3ca7169e/console_1.sql" />
+      <option value="$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/104471e9-db6b-4344-8f7c-0baa3ca7169e/console.sql" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="SQL">
+      <summary usageCount="18" lastUsage="1701451604244" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="2" lastUsage="1701193328484" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.27631578" />
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Database" order="0" visible="true" weight="0.2491127" />
+      <window_info anchor="bottom" id="Services" visible="true" weight="0.4436524" />
+      <window_info anchor="bottom" id="zeppelin-shell-toolwindow" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" weight="0.32992893" />
+      <window_info anchor="right" id="BigDataToolWindow" order="1" />
+      <window_info anchor="right" id="Structure" order="2" side_tool="true" weight="0.25" />
+      <unified_weights bottom="0.4436524" left="0.2491127" right="0.32992893" />
+    </layoutV2>
+    <recentWindows>
+      <value>Database</value>
+      <value>Services</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="62" y="266" width="1028" height="767" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1701345518375">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="62" y="266" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=125" timestamp="1701148644225">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="62" y="266" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1701148644225" />
+    <state x="62" y="266" width="1387" height="971" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=150" timestamp="1701372389396">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="62" y="266" width="1387" height="971" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=150/0.0.2256.1504/2256.0.1920.1080@0.0.2256.1504" timestamp="1701372389396" />
+    <state x="62" y="266" width="1028" height="767" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2256.1504@0.0.2256.1504" timestamp="1701345518375" />
+    <state x="1293" y="422" width="790" height="603" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1701193920151">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="1293" y="422" width="790" height="603" key="DUMP_DIALOG_DIMENSION_KEY/0.0.2256.1504@0.0.2256.1504" timestamp="1701193920151" />
+    <state x="1418" y="422" width="683" height="603" key="FileChooserDialogImpl" timestamp="1701193358337">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="792" y="362" width="656" height="723" key="FileChooserDialogImpl.ideScale=125" timestamp="1701124532119">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="792" y="362" width="656" height="723" key="FileChooserDialogImpl.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1701124532119" />
+    <state x="1418" y="422" width="696" height="603" key="FileChooserDialogImpl.ideScale=150" timestamp="1701452639433">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="1418" y="422" width="696" height="603" key="FileChooserDialogImpl.ideScale=150/0.0.2256.1504@0.0.2256.1504" timestamp="1701452639433" />
+    <state x="1418" y="422" width="683" height="603" key="FileChooserDialogImpl/0.0.2256.1504@0.0.2256.1504" timestamp="1701193358337" />
+    <state width="1655" height="600" key="GridCell.Tab.0.bottom" timestamp="1701346574360">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="803" height="453" key="GridCell.Tab.0.bottom.ideScale=125" timestamp="1701148675918">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="803" height="453" key="GridCell.Tab.0.bottom.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1701148675918" />
+    <state width="1581" height="579" key="GridCell.Tab.0.bottom.ideScale=150" timestamp="1701451719552">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1586" height="579" key="GridCell.Tab.0.bottom.ideScale=150/0.0.2256.1504/2256.0.1920.1080@0.0.2256.1504" timestamp="1701372560507" />
+    <state width="1581" height="579" key="GridCell.Tab.0.bottom.ideScale=150/0.0.2256.1504@0.0.2256.1504" timestamp="1701451719552" />
+    <state width="1655" height="600" key="GridCell.Tab.0.bottom/0.0.2256.1504@0.0.2256.1504" timestamp="1701346574360" />
+    <state width="1655" height="600" key="GridCell.Tab.0.center" timestamp="1701346574360">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="803" height="453" key="GridCell.Tab.0.center.ideScale=125" timestamp="1701148675918">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="803" height="453" key="GridCell.Tab.0.center.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1701148675918" />
+    <state width="1581" height="579" key="GridCell.Tab.0.center.ideScale=150" timestamp="1701451719552">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1586" height="579" key="GridCell.Tab.0.center.ideScale=150/0.0.2256.1504/2256.0.1920.1080@0.0.2256.1504" timestamp="1701372560507" />
+    <state width="1581" height="579" key="GridCell.Tab.0.center.ideScale=150/0.0.2256.1504@0.0.2256.1504" timestamp="1701451719552" />
+    <state width="1655" height="600" key="GridCell.Tab.0.center/0.0.2256.1504@0.0.2256.1504" timestamp="1701346574360" />
+    <state width="1655" height="600" key="GridCell.Tab.0.left" timestamp="1701346574360">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="803" height="453" key="GridCell.Tab.0.left.ideScale=125" timestamp="1701148675917">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="803" height="453" key="GridCell.Tab.0.left.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1701148675917" />
+    <state width="1581" height="579" key="GridCell.Tab.0.left.ideScale=150" timestamp="1701451719552">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1586" height="579" key="GridCell.Tab.0.left.ideScale=150/0.0.2256.1504/2256.0.1920.1080@0.0.2256.1504" timestamp="1701372560507" />
+    <state width="1581" height="579" key="GridCell.Tab.0.left.ideScale=150/0.0.2256.1504@0.0.2256.1504" timestamp="1701451719552" />
+    <state width="1655" height="600" key="GridCell.Tab.0.left/0.0.2256.1504@0.0.2256.1504" timestamp="1701346574360" />
+    <state width="1655" height="600" key="GridCell.Tab.0.right" timestamp="1701346574360">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="803" height="453" key="GridCell.Tab.0.right.ideScale=125" timestamp="1701148675918">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="803" height="453" key="GridCell.Tab.0.right.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1701148675918" />
+    <state width="1581" height="579" key="GridCell.Tab.0.right.ideScale=150" timestamp="1701451719552">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1586" height="579" key="GridCell.Tab.0.right.ideScale=150/0.0.2256.1504/2256.0.1920.1080@0.0.2256.1504" timestamp="1701372560507" />
+    <state width="1581" height="579" key="GridCell.Tab.0.right.ideScale=150/0.0.2256.1504@0.0.2256.1504" timestamp="1701451719552" />
+    <state width="1655" height="600" key="GridCell.Tab.0.right/0.0.2256.1504@0.0.2256.1504" timestamp="1701346574360" />
+    <state width="1655" height="600" key="GridCell.Tab.1.bottom" timestamp="1701197410368">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="803" height="453" key="GridCell.Tab.1.bottom.ideScale=125" timestamp="1701148644597">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="803" height="453" key="GridCell.Tab.1.bottom.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1701148644597" />
+    <state width="1581" height="579" key="GridCell.Tab.1.bottom.ideScale=150" timestamp="1701447573949">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1581" height="579" key="GridCell.Tab.1.bottom.ideScale=150/0.0.2256.1504@0.0.2256.1504" timestamp="1701447573949" />
+    <state width="1655" height="600" key="GridCell.Tab.1.bottom/0.0.2256.1504@0.0.2256.1504" timestamp="1701197410368" />
+    <state width="1655" height="600" key="GridCell.Tab.1.center" timestamp="1701197410368">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="803" height="453" key="GridCell.Tab.1.center.ideScale=125" timestamp="1701148644597">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="803" height="453" key="GridCell.Tab.1.center.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1701148644597" />
+    <state width="1581" height="579" key="GridCell.Tab.1.center.ideScale=150" timestamp="1701447573949">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1581" height="579" key="GridCell.Tab.1.center.ideScale=150/0.0.2256.1504@0.0.2256.1504" timestamp="1701447573949" />
+    <state width="1655" height="600" key="GridCell.Tab.1.center/0.0.2256.1504@0.0.2256.1504" timestamp="1701197410368" />
+    <state width="1655" height="600" key="GridCell.Tab.1.left" timestamp="1701197410368">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="803" height="453" key="GridCell.Tab.1.left.ideScale=125" timestamp="1701148644596">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="803" height="453" key="GridCell.Tab.1.left.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1701148644596" />
+    <state width="1581" height="579" key="GridCell.Tab.1.left.ideScale=150" timestamp="1701447573949">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1581" height="579" key="GridCell.Tab.1.left.ideScale=150/0.0.2256.1504@0.0.2256.1504" timestamp="1701447573949" />
+    <state width="1655" height="600" key="GridCell.Tab.1.left/0.0.2256.1504@0.0.2256.1504" timestamp="1701197410368" />
+    <state width="1655" height="600" key="GridCell.Tab.1.right" timestamp="1701197410368">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="803" height="453" key="GridCell.Tab.1.right.ideScale=125" timestamp="1701148644597">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="803" height="453" key="GridCell.Tab.1.right.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1701148644597" />
+    <state width="1581" height="579" key="GridCell.Tab.1.right.ideScale=150" timestamp="1701447573949">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="1581" height="579" key="GridCell.Tab.1.right.ideScale=150/0.0.2256.1504@0.0.2256.1504" timestamp="1701447573949" />
+    <state width="1655" height="600" key="GridCell.Tab.1.right/0.0.2256.1504@0.0.2256.1504" timestamp="1701197410368" />
+    <state width="418" height="612" key="HiddenNamespacesPopup" timestamp="1701345507630">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="520" height="816" key="HiddenNamespacesPopup.ideScale=125" timestamp="1701148661724">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state width="520" height="816" key="HiddenNamespacesPopup.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1701148661724" />
+    <state width="418" height="612" key="HiddenNamespacesPopup/0.0.2256.1504@0.0.2256.1504" timestamp="1701345507630" />
+    <state x="537" y="271" key="SettingsEditor" timestamp="1701371990839">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="537" y="271" key="SettingsEditor.ideScale=125" timestamp="1701125861843">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="537" y="271" key="SettingsEditor.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1701125861843" />
+    <state x="537" y="249" key="SettingsEditor.ideScale=150" timestamp="1701464086387">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="537" y="249" key="SettingsEditor.ideScale=150/0.0.2256.1504@0.0.2256.1504" timestamp="1701464086387" />
+    <state x="537" y="271" key="SettingsEditor/0.0.2256.1504/2256.0.1920.1080@0.0.2256.1504" timestamp="1701371990839" />
+    <state x="537" y="271" key="SettingsEditor/0.0.2256.1504@0.0.2256.1504" timestamp="1701123926220" />
+    <state x="1436" y="509" width="504" height="428" key="com.intellij.database.actions.DbDeleteProvider$2" timestamp="1701196126176">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="1436" y="509" width="601" height="503" key="com.intellij.database.actions.DbDeleteProvider$2.ideScale=150" timestamp="1701446391543">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="1436" y="509" width="601" height="503" key="com.intellij.database.actions.DbDeleteProvider$2.ideScale=150/0.0.2256.1504/2256.0.1920.1080@0.0.2256.1504" timestamp="1701372181866" />
+    <state x="1436" y="509" key="com.intellij.database.actions.DbDeleteProvider$2.ideScale=150/0.0.2256.1504@0.0.2256.1504" timestamp="1701446391543" />
+    <state x="1436" y="509" width="504" height="428" key="com.intellij.database.actions.DbDeleteProvider$2/0.0.2256.1504@0.0.2256.1504" timestamp="1701196126176" />
+    <state x="1163" y="264" width="1049" height="919" key="com.intellij.database.actions.ddl.DbModifyObjectDialog" timestamp="1701193936546">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="1163" y="264" width="1049" height="919" key="com.intellij.database.actions.ddl.DbModifyObjectDialog/0.0.2256.1504@0.0.2256.1504" timestamp="1701193936546" />
+    <state x="1168" y="297" width="1040" height="853" key="com.intellij.database.dbimport.ImportDialog" timestamp="1701193359584">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="1168" y="297" width="1040" height="853" key="com.intellij.database.dbimport.ImportDialog/0.0.2256.1504@0.0.2256.1504" timestamp="1701193359584" />
+    <state x="721" y="295" width="806" height="856" key="com.intellij.database.run.actions.ShowCsvFormatsAction$ForExport.ideScale=125" timestamp="1701124298665">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="721" y="295" width="806" height="856" key="com.intellij.database.run.actions.ShowCsvFormatsAction$ForExport.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1701124298665" />
+    <state x="1355" y="359" width="665" height="728" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1701345421503">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="719" y="285" width="810" height="877" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=125" timestamp="1701124322724">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="719" y="285" width="810" height="877" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=125/0.0.2256.1504@0.0.2256.1504" timestamp="1701124322724" />
+    <state x="1355" y="359" width="753" height="728" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=150" timestamp="1701451698823">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="1355" y="359" width="753" height="728" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=150/0.0.2256.1504@0.0.2256.1504" timestamp="1701451698823" />
+    <state x="1355" y="359" width="665" height="728" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2256.1504@0.0.2256.1504" timestamp="1701345421503" />
+    <state x="1271" y="303" width="956" height="1066" key="search.everywhere.popup" timestamp="1701195427093">
+      <screen x="0" y="0" width="2256" height="1504" />
+    </state>
+    <state x="1271" y="303" width="956" height="1066" key="search.everywhere.popup/0.0.2256.1504@0.0.2256.1504" timestamp="1701195427093" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/nutrition_2023_11_28_08_41_08.txt" />
+    <entry file="file://$PROJECT_DIR$/strength_2023_11_28_11_41_54.txt" />
+    <entry file="das://41332f1f-626c-487e-a908-d9b81174f843/schema/fitness/table/nutrition">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1701197398029" presentationMode="TABLE" projectRestartId="6bed4fdb-4a5f-42f6-b178-55868852a88f" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://41332f1f-626c-487e-a908-d9b81174f843/schema/fitness/table/strength">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1701194443843" presentationMode="TABLE" projectRestartId="6bed4fdb-4a5f-42f6-b178-55868852a88f" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://41332f1f-626c-487e-a908-d9b81174f843/schema/fitness/table/triathlon">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1701197402972" presentationMode="TABLE" projectRestartId="6bed4fdb-4a5f-42f6-b178-55868852a88f" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="87" column="23" selection-start-line="87" selection-start-column="23" selection-end-line="87" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/0e05dec8-dc04-450d-a030-cd33456a4e12/console.sql" />
+    <entry file="file://$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/0e05dec8-dc04-450d-a030-cd33456a4e12/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://104471e9-db6b-4344-8f7c-0baa3ca7169e/database/postgres/schema/disresa/table/columbia">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1701346096932" presentationMode="TABLE" projectRestartId="e9afb8c7-3453-4b23-b00f-21308b8c2263" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://41332f1f-626c-487e-a908-d9b81174f843/schema/fitness/table/daily_metrics">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1701372150654" presentationMode="TABLE" projectRestartId="e9afb8c7-3453-4b23-b00f-21308b8c2263" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/e99f4505-99e3-42de-b95c-133195ee1cf2/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/104471e9-db6b-4344-8f7c-0baa3ca7169e/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://104471e9-db6b-4344-8f7c-0baa3ca7169e/database/postgres/schema/disresa/table/newera_20231201_100238">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1701451639551" presentationMode="TABLE" projectRestartId="544c5fc6-0fab-4e1d-ae50-9534334c610b" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="u_estilo DESC" />
+            <sort text="u_estilo" />
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.config/JetBrains/DataGrip2023.2/consoles/db/104471e9-db6b-4344-8f7c-0baa3ca7169e/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="20" column="36" selection-start-line="20" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,342 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">dHJlYW1pbGw=</entry>
+        <entry encoding="base64">ZmVuaXg=</entry>
+        <entry encoding="base64">cnVu</entry>
+        <entry encoding="base64">dHJlYWRtaWxs</entry>
+        <entry encoding="base64">Tk8gQVBMSQ==</entry>
+        <entry encoding="base64">dV9kaXZfdmFs</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">JzwsJz51</entry>
+        <entry encoding="base64">cw==</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">dTp1</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry encoding="base64">VQ==</entry>
+        <entry encoding="base64">dQ==</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="$USER_HOME$/DataGripProjects/Test">
+      <jump line="0" column="0" filename="$USER_HOME$/strong_2023_11_16_07_07_21.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/strong_2023_11_16_07_05_37.txt" />
+      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_2.sql" />
+      <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_2.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/myfitnesspal_2023_11_16_08_46_03.txt" />
+      <jump line="27" column="39" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_2.sql" />
+      <jump line="25" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_2.sql" />
+      <jump line="0" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_2.sql" />
+      <jump line="25" column="37" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_5.sql" />
+      <jump line="2" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_5.sql" />
+      <jump line="7" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_5.sql" />
+      <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_5.sql" />
+      <jump line="22" column="52" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_5.sql" />
+      <jump line="38" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_5.sql" />
+      <jump line="53" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_5.sql" />
+      <jump line="44" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_5.sql" />
+      <jump line="39" column="39" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_5.sql" />
+      <jump line="8" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_4.sql" />
+      <jump line="46" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_5.sql" />
+      <jump line="54" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_5.sql" />
+      <jump line="22" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_4.sql" />
+      <jump line="10" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_4.sql" />
+      <jump line="17" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_4.sql" />
+      <jump line="28" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_4.sql" />
+      <jump line="1" column="47" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_4.sql" />
+      <jump line="0" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_4.sql" />
+      <jump line="60" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_5.sql" />
+      <jump line="0" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_3.sql" />
+      <jump line="14" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_3.sql" />
+      <jump line="30" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_3.sql" />
+      <jump line="25" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_3.sql" />
+      <jump line="58" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_3.sql" />
+      <jump line="80" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_3.sql" />
+      <jump line="81" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_3.sql" />
+      <jump line="82" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_3.sql" />
+      <jump line="38" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_3.sql" />
+      <jump line="40" column="66" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_3.sql" />
+      <jump line="37" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_3.sql" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_3.sql" />
+      <jump line="21" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5fd8b389-c8cb-4fd6-a5f4-674662965435/console_3.sql" />
+      <jump line="14" column="70" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_5.sql" />
+      <jump line="0" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_5.sql" />
+      <jump line="3" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_5.sql" />
+      <jump line="29" column="72" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_5.sql" />
+      <jump line="36" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_5.sql" />
+      <jump line="21" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_5.sql" />
+      <jump line="20" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_5.sql" />
+      <jump line="19" column="76" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_5.sql" />
+      <jump line="44" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_5.sql" />
+      <jump line="43" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_5.sql" />
+      <jump line="47" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_5.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/cleanups_2023_11_21.sql" />
+      <jump line="42" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_5.sql" />
+      <jump line="41" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_5.sql" />
+      <jump line="46" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_5.sql" />
+      <jump line="9" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fe180c1d-9a20-4ee6-95c9-c82ac22c0cdb/console_6.sql" />
+      <jump line="2" column="38" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="1" column="0" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="9" column="58" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="15" column="31" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="12" column="0" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="14" column="19" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="13" column="27" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="22" column="25" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="52" column="66" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="18" column="9" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="19" column="6" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="55" column="57" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="61" column="4" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="60" column="13" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="59" column="0" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="54" column="35" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="25" column="50" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="33" column="0" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="56" column="0" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="24" column="118" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="29" column="50" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="57" column="78" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="34" column="0" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="30" column="25" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="31" column="36" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="20" column="12" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/DataGripProjects/Test/cleanups_2023_11_21.sql" />
+      <jump line="40" column="0" filename="$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql" />
+      <jump line="4" column="11" filename="$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql" />
+      <jump line="3" column="11" filename="$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql" />
+      <jump line="37" column="1" filename="$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql" />
+      <jump line="13" column="47" filename="$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql" />
+      <jump line="7" column="0" filename="$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql" />
+      <jump line="47" column="46" filename="$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql" />
+      <jump line="48" column="54" filename="$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql" />
+      <jump line="45" column="22" filename="$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql" />
+      <jump line="50" column="112" filename="$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql" />
+      <jump line="56" column="107" filename="$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql" />
+      <jump line="57" column="0" filename="$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql" />
+      <jump line="46" column="0" filename="$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql" />
+      <jump line="53" column="0" filename="$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql" />
+      <jump line="62" column="11" filename="$USER_HOME$/GitHub_Work/Dashboard_Metadata/SQL_Cleaning/cleanups_2023_11_21.sql" />
+      <jump line="0" column="36" filename="$USER_HOME$/skechers_20230919_171320_2023_11_21_18_34_02.txt" />
+      <jump line="0" column="38" filename="$APPLICATION_CONFIG_DIR$/consoles/db/58f827a6-aee4-49c7-b040-61a9976c8346/console_6.sql" />
+    </project>
+    <project id="$USER_HOME$">
+      <jump line="68" column="69" filename="$APPLICATION_CONFIG_DIR$/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console.sql" />
+      <jump line="6" column="61" filename="$APPLICATION_CONFIG_DIR$/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console.sql" />
+      <jump line="4" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/nutrition_2023_11_28_08_41_08.txt" />
+      <jump line="8" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="23" column="52" filename="$APPLICATION_CONFIG_DIR$/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console.sql" />
+      <jump line="22" column="53" filename="$APPLICATION_CONFIG_DIR$/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console.sql" />
+      <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console.sql" />
+      <jump line="24" column="30" filename="$APPLICATION_CONFIG_DIR$/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console.sql" />
+      <jump line="21" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console.sql" />
+      <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="32" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="33" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="30" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="20" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="21" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="18" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="24" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/strength_2023_11_28_11_41_54.txt" />
+      <jump line="23" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="34" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="36" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="47" column="72" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="51" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="49" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="39" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="48" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="53" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="55" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="66" column="21" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="81" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="58" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="72" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="70" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="79" column="53" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="80" column="62" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="82" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="60" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="74" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="89" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="78" column="55" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="84" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="75" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="59" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="85" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="87" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/41332f1f-626c-487e-a908-d9b81174f843/console.sql" />
+      <jump line="41" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console.sql" />
+      <jump line="40" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e99f4505-99e3-42de-b95c-133195ee1cf2/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0e05dec8-dc04-450d-a030-cd33456a4e12/console.sql" />
+      <jump line="0" column="1" filename="$APPLICATION_CONFIG_DIR$/consoles/db/0e05dec8-dc04-450d-a030-cd33456a4e12/console_1.sql" />
+      <jump line="0" column="50" filename="$APPLICATION_CONFIG_DIR$/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console_1.sql" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console_1.sql" />
+      <jump line="0" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/104471e9-db6b-4344-8f7c-0baa3ca7169e/console_1.sql" />
+      <jump line="10" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/104471e9-db6b-4344-8f7c-0baa3ca7169e/console.sql" />
+      <jump line="21" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/104471e9-db6b-4344-8f7c-0baa3ca7169e/console.sql" />
+      <jump line="20" column="36" filename="$APPLICATION_CONFIG_DIR$/consoles/db/104471e9-db6b-4344-8f7c-0baa3ca7169e/console.sql" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="/console" timestamp="1701447573819">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console.sql" timestamp="1701346574361">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="40" column="55" />
+        <mark key="]" line="40" column="55" />
+        <mark key="^" line="39" column="7" />
+        <mark key="." line="40" column="55" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e05dec8-dc04-450d-a030-cd33456a4e12/console_1.sql" timestamp="1701346566576">
+        <mark key="&quot;" line="0" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="/a.sql" timestamp="1701446391536">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/default" timestamp="1701446391751">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/309e4f0f-b839-4926-a697-6f5caf3f7262/console_1.sql" timestamp="1701447032669">
+        <mark key="[" line="0" column="51" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/newera_20231201_100238" timestamp="1701451639602">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1701451639632">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dumpDataPreview" timestamp="1701467098619">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1701372389392">
+        <mark key="&quot;" line="0" column="3" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/104471e9-db6b-4344-8f7c-0baa3ca7169e/console.sql" timestamp="1701451781330">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="37" />
+        <mark key="^" line="20" column="37" />
+        <mark key="." line="20" column="36" />
+      </file>
+      <file name="/daily_metrics" timestamp="1701372166265">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/104471e9-db6b-4344-8f7c-0baa3ca7169e/console_1.sql" timestamp="1701451641624">
+        <mark key="&quot;" line="0" column="14" />
+        <mark key="[" line="0" column="43" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="20" />
+      </file>
+      <file name="/daily_metrics [@localhost]" timestamp="1701372166268">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0e05dec8-dc04-450d-a030-cd33456a4e12/console.sql" timestamp="1701346567676">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="/console_1" timestamp="1701451604248">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e99f4505-99e3-42de-b95c-133195ee1cf2/console.sql" timestamp="1701372530404">
+        <mark key="&quot;" line="0" column="7" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="/columbia [postgres@localhost]" timestamp="1701346565076">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/columbia" timestamp="1701346565073">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/newera_20…201_100238 [postgres@localhost]" timestamp="1701451639583">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">cG9zdGdyZXMuZGlzcmVzYS5uZXdlcuKApjEwMDIzOCBbcG9zdGdyZXNAbG9jYWxob3N0XQo=</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">bik=</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">Ow==</text>
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">dV9kaXZfdmFs</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">CVNldF9OdW1iZXIgaW50LAo=</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">cG9zdGdyZXMuZGlzcmVzYS5uZXdlcuKApjEwMDIzOCBbcG9zdGdyZXNAbG9jYWxob3N0XQo=</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">REVMRVRFIEZST00gdHJpYXRobG9uOwoK</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">SU5TRVJUIElOVE8gdHJpYXRobG9uIChEYXRlLCBTdGFydF9UaW1lLCBFbmRfVGltZSwKICAgICAgICAgICAgICAgICAgICAgICBTcG9ydCwgU3Vic3BvcnQsIEVudmlyb25tZW50LCBJbmRvb3IsCiAgICAgICAgICAgICAgICAgICAgICAgU2V0X051bWJlciwgU2V0X0R1cmF0aW9uX0hvdXJzLCBTZXRfRHVyYXRpb25fTWlucywgU2V0X0R1cmF0aW9uX1NlY29uZHMsCiAgICAgICAgICAgICAgICAgICAgICAgU2V0X0F2Z19TcGVlZCwgU2V0X0F2Z19Qb3dlciwgU2V0X0F2Z19JbmNsaW5lKQpWQUxVRVMgKCcyMDIzLTEwLTA0JywgJzEwOjAwOjAwJywgJzEyOjAwOjAwJywKICAgICAgICAnU3dpbW1pbmcnLCAnRnJlZXN0eWxlJywgJ091dGRvb3InLCAwLCAxLCAwLCAzMCwgMS41LCAwLjAsIDAuMCk7Cg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">U0VMRUNUICogRlJPTSBudXRyaXRpb247CgpERUxFVEUgRlJPTSBudXRyaXRpb247Cg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">dV9kaXZfdmFs</last-search>
+      <last-pattern encoding="base64">dV9kaXZfdmFs</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>
