@@ -127,7 +127,6 @@ alias mssql='python3 /home/juanesh/GitHub_Personal/Linux_Tools/mssql.py'
 # alias ipython='ipython3'
 export PATH="$PATH:$HOME/tree-sitter/cli"
 export PATH=$PATH:~/.local/bin
-alias obsidian='~/.local/bin/Obsidian-1.4.16.AppImage'
 export PATH=/usr/local/node-v18.18.2/bin:$PATH
 alias st='streamlit run'
 export PATH="$PATH:/opt/mssql-tools18/bin"
