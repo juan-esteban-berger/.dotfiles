@@ -127,7 +127,6 @@ alias mssql='python3 /home/juanesh/GitHub_Personal/Linux_Tools/mssql.py'
 # alias ipython='ipython3'
 export PATH="$PATH:$HOME/tree-sitter/cli"
 export PATH=$PATH:~/.local/bin
-export PATH=/usr/local/node-v18.18.2/bin:$PATH
 alias st='streamlit run'
 export PATH="$PATH:/opt/mssql-tools18/bin"
 export CLASSPATH=$CLASSPATH:/opt/jtds-1.3.1/jtds-1.3.1.jar
@@ -155,3 +154,9 @@ unset __conda_setup
 export PATH="/usr/local/bin:$PATH"
 export TERMINAL=kitty
 export W3MIMGDISPLAY_PATH=/usr/lib/w3m/w3mimgdisplay
+
+brightnessctl set 100% > /dev/null
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
